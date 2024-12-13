@@ -6,7 +6,7 @@
 - Languages, **C++** & **Python**
 - Pronouns, **She/Her**
 - IDE's, **VSC** & **VS**, Moving to Zed soon!
-  
+  <p></p>
 - Cyber Security Nerd ^-^
 - Arch ofc...
 
