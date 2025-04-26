@@ -5,9 +5,8 @@
 - Contact Info, **Swore@terrorist.lol**
 - Languages, **C++** & **Python**
 - Pronouns, **She/Her**
-- IDE's, **Zed**
+- IDE's, **VSC**
   <p></p>
-- Cyber Security Nerd ^-^
 - Arch ofc...
 
 
