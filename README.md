@@ -6,8 +6,6 @@
 - Languages, **C++** & **Python**
 - Pronouns, **She/Her**
 - IDE's, **VSC**
-  <p></p>
-- Arch ofc...
 
 
 
